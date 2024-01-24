@@ -1,0 +1,24 @@
+.list-group-item{
+    cursor: pointer !important;
+}
+
+.container2{
+}
+
+.container3{
+    display: none;
+}
+
+.weight_input_container{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+}
+
+.weight_input_container input{
+    width: 100% !important;
+}
+
+.weight_input_container button{
+    width: 50% !important;
+}
